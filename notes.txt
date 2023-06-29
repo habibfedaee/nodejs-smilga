@@ -1,0 +1,26 @@
+nodejs tutuorial
+
+https://youtu.be/Oe421EPjeBE?t=5670
+
+tutorial track process:
+current topic : fs module (async)
+timeline: 1:18:29
+
+
+
+
+
+notes:
+----------------------------------------------------------------------------------------------------------------------------------
+
+npm:
+npm -- global command, comes with nodejs
+> npm --version : checks the version of npm installed in your machine
+
+local dependency: use it only in this particular project
+> npm i <package name>
+
+global dependency: use it in any project
+> npm install -g <package name>
+> sudo npm install -g <package name> //mac 
+
